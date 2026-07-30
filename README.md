@@ -7,11 +7,10 @@ Cada notebook representa uma aula do curso e constrói sobre o conteúdo do ante
 
 | Notebook | Conteúdo |
 |---|---|
-| `Aula_1.ipynb` | Introdução ao **Matplotlib**: primeiro gráfico, eixos, títulos e rótulos |
-| `Aula_2.ipynb` | Criação de **figuras e subplots** com Matplotlib |
-| `Aula_3.ipynb` | Customização avançada: cores, anotações, estilos de grid |
-| `Aula_4.ipynb` | Introdução ao **Seaborn**: paletas de cores e temas |
-| `Aula_5.ipynb` | Gráficos **interativos com Plotly** e exportação em HTML |
+| `projeto_final` | Introdução ao **Matplotlib**: primeiro gráfico, eixos, títulos e rótulos |
+                  | Criação de **figuras e subplots** com Matplotlib| Customização avançada: cores, anotações, estilos de grid  |
+                  | Introdução ao **Seaborn**: paletas de cores e temas |
+                  | Gráficos **interativos com Plotly** e exportação em HTML |
 
 ## 🛠️ Tecnologias
 - Python
